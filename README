@@ -1,0 +1,12 @@
+PComm3 Demo Application
+12/08/13
+
+
+-this app is developed in VS2013 C#
+-it will demonstrate basic working with PMAC using PCommSever
+
+-it shows some best practice methods of working with the PMAC
+
+-it has built in Safety logic to work with a Pilz PNOZ Safety PLC
+   -demonstrates using Modbus to communicate with the Pilz 
+
